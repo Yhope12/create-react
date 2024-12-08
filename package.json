@@ -2,7 +2,7 @@
   "name": "yoon-react-weather",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://yhope12.github.io/weather-react",
+  "homepage": "https://yhope12.github.io/create-react",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
